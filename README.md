@@ -19,3 +19,6 @@ To address the challenges of traditional traffic management systems, TrafficShie
 *Secure Data Management*: Safely stores violation records in a central database.
 
 ## System Diagram 👉
+
+![image](https://github.com/user-attachments/assets/5a4c10d1-44fd-4d86-b078-e77292daceb9)
+
