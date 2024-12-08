@@ -18,6 +18,11 @@ To address the challenges of traditional traffic management systems, TrafficShie
 *Data-driven Insights*: Analyzes traffic trends for better planning.
 *Secure Data Management*: Safely stores violation records in a central database.
 
+## Technologies ⚙
+
+
+
+
 ## System Diagram 👉
 
 ![image](https://github.com/user-attachments/assets/5a4c10d1-44fd-4d86-b078-e77292daceb9)
