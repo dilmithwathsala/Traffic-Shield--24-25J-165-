@@ -1,7 +1,7 @@
 #Evaluating automated traffic violation detection system for road safety improvement 🚦
 (Project ID: 24-25J-165)
 
-## Project Overview 
+## Project Overview 🚦
 
 The research, *Evaluating Automated Traffic Violation Detection System for Road Safety Improvement*, focuses on developing an innovative system to address the challenges of traditional traffic management. By integrating advanced technologies such as computer vision, machine learning, and automated reporting, the system automates the detection of traffic violations, including speeding, signal breaches, and illegal parking. It provides real-time data to law enforcement, ensuring prompt action and better regulation. This system aims to improve road safety, reduce congestion, and support data-driven urban planning by delivering a modern, efficient, and scalable solution to urban traffic management challenges.
 
