@@ -21,8 +21,13 @@ To address the challenges of traditional traffic management systems, TrafficShie
 ## Technologies ⚙
 
 *Computer Vision: OpenCV
+![image](https://github.com/user-attachments/assets/80b9389e-beb5-4bc8-9922-e55a34d0840b)
+
 *Hardware: High-resolution cameras
+![image](https://github.com/user-attachments/assets/330cc451-0dea-4fa7-afcd-dd4f1404452e)
+
 *Software: Python
+![image](https://github.com/user-attachments/assets/a2f7f266-1d2a-4cc5-8579-0d1d502d1b2b)
 
 
 ## System Diagram 👉
