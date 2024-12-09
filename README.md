@@ -23,8 +23,6 @@ To address the challenges of traditional traffic management systems, TrafficShie
 Computer Vision: OpenCV
 Hardware: High-resolution cameras
 Software: Python
-![image](https://github.com/user-attachments/assets/2d0bb1fb-162a-4bb2-9c9a-e8cad3a19559)
-
 
 
 ## System Diagram 👉
