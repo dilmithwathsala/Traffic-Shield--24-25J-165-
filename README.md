@@ -25,5 +25,6 @@ To address the challenges of traditional traffic management systems, TrafficShie
 
 ## System Diagram 👉
 
-![image](https://github.com/user-attachments/assets/5a4c10d1-44fd-4d86-b078-e77292daceb9)
+![image](https://github.com/user-attachments/assets/450581ad-e1b9-42a4-abae-837ab01e7575)
+
 
