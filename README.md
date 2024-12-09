@@ -20,9 +20,9 @@ To address the challenges of traditional traffic management systems, TrafficShie
 
 ## Technologies ⚙
 
-Computer Vision: OpenCV
-Hardware: High-resolution cameras
-Software: Python
+*Computer Vision: OpenCV
+*Hardware: High-resolution cameras
+*Software: Python
 
 
 ## System Diagram 👉
