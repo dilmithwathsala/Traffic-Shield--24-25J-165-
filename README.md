@@ -17,6 +17,7 @@ To address the challenges of traditional traffic management systems, TrafficShie
 *Real-time Reporting*: Shares violation data instantly with law enforcement.
 *Data-driven Insights*: Analyzes traffic trends for better planning.
 *Secure Data Management*: Safely stores violation records in a central database.
+![image](https://github.com/user-attachments/assets/eaae21c5-80c9-4dc1-bb5d-74cdd1e610e8)
 
 ## System Diagram 👉
 ![image](https://github.com/user-attachments/assets/4201ce15-3f3b-4fbe-bba8-50684b3cc4d8)
